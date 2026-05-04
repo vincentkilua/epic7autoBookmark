@@ -1,0 +1,5 @@
+PyQt6>=6.0
+adbutils>=2.0
+numpy>=1.20
+opencv-python>=4.0
+aircv>=1.2
