@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(python -m venv .venv)",
-      "Bash(.venv/Scripts/pip install *)",
-      "Bash(.venv/Scripts/python -c \"import ast; ast.parse\\(open\\('main.py'\\).read\\(\\)\\); print\\('OK'\\)\")"
-    ]
-  }
-}
