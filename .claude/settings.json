@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git push *)",
+      "Bash(.venv/Scripts/pyinstaller --onefile --windowed --name \"epic7autoBookmark\" --add-data \"img;img\" main.py)"
+    ]
+  }
+}
